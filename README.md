@@ -9,4 +9,4 @@ Only works with flat rate for IT comapanies (i.e. 16.5% on total sales)
 ## Usage
 ```python bequiavat --type flat --totalsales nnnnnnnnn.nn```
 
-All other values will be calulated
+All other values will be calculated
